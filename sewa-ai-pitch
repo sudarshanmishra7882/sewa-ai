@@ -1,0 +1,59 @@
+Sewa AI – Nepal Citizen Assistant
+Pitch: Why It's Necessary & Why It's Different
+
+─────────────────────────────────────────────────
+
+1. GENERAL AI PLATFORMS FAIL IN NEPAL
+
+ChatGPT, Gemini, Claude — they're built for Western users. When a Nepali
+citizen asks them about nagarikta, Lalpurja, namsari, loksewa, or a fake
+e-Sewa SMS, these platforms either hallucinate, cite Indian law, or give
+generic useless answers. Sewa AI is purpose-built with Nepal-specific
+system prompts, Nepal-specific scam patterns, and Nepal's actual legal
+framework (Muluki Ain, Labour Act, Citizenship Act, etc.).
+
+2. FOUR TOOLS IN ONE — NO SWITCHING
+
+A Nepali citizen currently needs:
+- A translator for government documents
+- A separate app to check if an SMS is a scam
+- A lawyer or legal portal for rights questions
+- A general assistant for everyday questions
+
+Sewa AI consolidates all of this into a single platform with mode-based
+architecture. One app, four modes, zero friction.
+
+3. DEVANAGARI-FIRST, NOT AN AFTERTHOUGHT
+
+Most AI platforms treat Nepali as a secondary language with broken
+script rendering, poor Devanagari understanding, and incorrect
+code-switching. Sewa AI auto-detects the user's language, responds in
+fluent Nepali (Devanagari) or English, and handles natural Nepali-English
+mixing — which is how real Nepalis actually communicate.
+
+4. SCAM DETECTION THAT ACTUALLY KNOWS NEPAL
+
+Foreign platforms don't know about fake Himalayan Bank SMS, e-Sewa
+phishing, Dubai job scams, or "NPR 5 lakh lottery" fraud. Sewa AI's scam
+mode is trained on Nepal-specific fraud patterns and provides actionable
+safety steps including Nepal Police Cyber Bureau reporting guidance.
+
+5. DOCUMENT PROCESSING WITH OCR
+
+Citizens can upload scanned PDFs, photos of forms, or DOCX files. The
+pipeline extracts text, OCRs Devanagari script, and explains the document
+in plain language — including deadlines, required actions, and next steps.
+No Nepali citizen service does this end-to-end.
+
+6. BUILT FOR ACCESSIBILITY
+
+Designed for citizens across literacy levels — rural and urban. Simple
+language output, structured responses, bilingual UI, and mobile-responsive
+design. The goal is to bridge the gap between complex government bureaucracy
+and the average Nepali citizen.
+
+─────────────────────────────────────────────────
+
+In short: ChatGPT is a general-purpose tool. Sewa AI is a Nepal-specific
+civic companion that understands your documents, your scams, your laws,
+and your language — all in one place.

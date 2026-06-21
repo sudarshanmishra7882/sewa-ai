@@ -1,0 +1,17 @@
+Sewa AI – Nepal Citizen Assistant”
+Brief Idea (simple hackathon description):
+
+Sewa AI is an AI-powered citizen assistant for Nepal that helps people understand government documents, detect scams, and get basic legal guidance in a simple and accessible way. It is designed for both Nepali and English users and includes text-to-speech so people can listen to answers instead of reading.
+
+The system has three core features:
+
+AI Bureaucracy Helper
+Users can upload or paste government forms, notices, bank letters, or official documents. The AI translates and explains them in simple Nepali or English and tells the user what actions they need to take step by step.
+AI Scam Detector
+Users can input SMS messages, emails, links, or screenshots. The AI analyzes them and detects possible scams, fake job offers, or fraud attempts, then explains the risk clearly and suggests what to do next.
+AI Legal Guidance Assistant
+Users can ask general legal questions or civic-related doubts. The AI provides explanations based on constitutional principles and public legal information in simple language, along with general advice and next steps.
+
+Sewa AI also supports voice input/output and multilingual conversation, making it easier for citizens, especially in rural areas, to access important information without technical barriers.
+
+Goal: To make government information, safety awareness, and basic legal understanding accessible to every citizen in Nepal through one simple AI platform.

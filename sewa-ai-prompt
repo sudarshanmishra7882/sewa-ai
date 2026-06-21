@@ -1,0 +1,125 @@
+Build a production-ready full-stack AI application called “Sewa AI – Nepal Citizen Assistant”.
+
+This is a multi-module intelligent assistant designed for real-world civic use in Nepal. The system must be designed as a scalable AI product, not a simple chatbot.
+
+🎯 CORE OBJECTIVE
+
+Create an AI platform that allows users to:
+
+Chat normally (general assistant)
+Analyze documents (government, legal, bank, forms)
+Detect scams (messages, emails, links)
+Get legal & civic guidance (Nepal-focused)
+
+All features must be integrated into one unified system with a clean mode-based architecture.
+
+🧠 AI MODES (VERY IMPORTANT)
+
+The system must support 4 intelligent modes:
+
+1. General Chat Mode
+Natural conversation
+Context-aware responses
+Must avoid repetitive answers
+Must adapt tone based on conversation
+Must support Nepali + English
+2. Bureaucracy / Document Mode
+
+Input:
+
+PDFs, DOCX, images (OCR text), or pasted text
+
+Output:
+
+Simple explanation
+Key points
+Required actions
+Deadlines or risks (if any)
+
+Must convert complex official content into simple citizen-friendly language.
+
+3. Scam Detection Mode
+
+Input:
+
+SMS, WhatsApp messages, emails, social media messages, URLs
+
+Output:
+
+Scam risk score (Low / Medium / High)
+Reasoning specific to input
+Pattern detection (phishing, job scam, fake bank, etc.)
+Safety instructions
+
+Must never give generic responses — every analysis must be content-specific.
+
+4. Legal & Civic Guidance Mode
+
+Provide:
+
+General legal explanations
+Civic procedure guidance in Nepal context
+Rights awareness and government process explanations
+
+Rules:
+
+Do NOT act as a licensed lawyer
+Do NOT provide legal judgments
+Always include disclaimer:
+“This is general informational guidance, not legal advice.”
+🌐 LANGUAGE REQUIREMENTS
+Must support English and Nepali
+Auto-detect language from user input
+Respond in same language as user
+Allow mixed language responses naturally
+📄 DOCUMENT HANDLING
+
+System must support:
+
+Text input
+OCR-extracted text from images
+PDF/DOCX extracted content
+
+All documents must be processed intelligently based on selected mode.
+
+🧠 INTELLIGENCE RULES (CRITICAL)
+Do NOT repeat identical responses for different inputs
+Responses must always be dynamically generated
+Must use conversation history for context awareness
+Avoid template-like outputs
+Each response should feel uniquely written
+Must adapt tone and structure per query type
+🇳🇵 NEPAL CONTEXT AWARENESS
+
+System should prioritize Nepal-specific knowledge:
+
+Government services
+Administrative procedures
+Common scam patterns in Nepal
+Civic/legal structure
+
+If unsure about real-time officials or current data:
+
+Do NOT hallucinate
+Clearly state uncertainty
+⚠️ SAFETY RULES
+No illegal instructions
+No harmful guidance
+Scam detection must prioritize user protection
+Legal advice must remain informational only
+🧩 OUTPUT STYLE
+Structured and clear responses
+Simple language for citizens
+Use bullet points for actions and risks
+Keep answers practical and easy to understand
+Avoid unnecessary verbosity
+🚀 FINAL GOAL
+
+Design a unified AI assistant that feels like a real civic digital companion for Nepal — combining:
+
+Smart conversation
+Document understanding
+Fraud detection
+Civic/legal guidance
+
+The system must be modular, scalable, and production-ready.
